@@ -13,6 +13,8 @@ Intuitive user interface for a seamless user experience.
 HTML: Provides the structure and layout of the web application.
 CSS: Styles the elements for a visually appealing interface.
 JavaScript: Implements the password generation logic and interactivity.
+
+
 🔒 Why Use This Password Generator?
 In an era where cybersecurity is paramount, using strong and unique passwords is crucial to safeguarding personal and sensitive information. This tool eliminates the hassle of creating secure passwords manually, ensuring users can easily fortify their online accounts against unauthorized access and potential breaches.
 
